@@ -1,7 +1,7 @@
 # Robotics Computer Vision Developer Assessment 
 <p style="text-align:center;">Done by: <a href="https://www.linkedin.com/in/amer-ghazal/">Amer Ghazal</a></p>
 
-Below you will find the solutions for the questions I received as an assessment from Microavia Hiring Team
+Below you will find the solutions for the questions I received as an assessment from Microvia Hiring Team
 ([PDF](questions.pdf)) attatched.
 
 
